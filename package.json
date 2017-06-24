@@ -1,0 +1,26 @@
+{
+  "name": "audit_crawler",
+  "version": "1.0.0",
+  "description": "## To do",
+  "main": "auditList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xin00163/audit_crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xin00163/audit_crawler/issues"
+  },
+  "homepage": "https://github.com/Xin00163/audit_crawler#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
