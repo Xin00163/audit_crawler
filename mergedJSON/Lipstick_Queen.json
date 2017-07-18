@@ -1,0 +1,382 @@
+[
+    {
+        "pidNo": "538489",
+        "english": "Silver Screen Lipstick - Play It",
+        "chinese": "银幕美人唇膏（色号：Play It）"
+    },
+    {
+        "pidNo": "538490",
+        "english": "Silver Screen Lipstick - Made It",
+        "chinese": "银幕美人唇膏（色号：Made It）"
+    },
+    {
+        "pidNo": "538492",
+        "english": "Velvet Rope Lipstick - Brat Pack",
+        "chinese": "丝绒唇膏（色号：Brat Pack）"
+    },
+    {
+        "pidNo": "538488",
+        "english": "Silver Screen Lipstick - Have Paris",
+        "chinese": "银幕美人唇膏（色号：Have Paris）"
+    },
+    {
+        "pidNo": "938731",
+        "english": "Lipstick - Mornin' Sunshine",
+        "chinese": "唇膏（色号：Mornin' Sunshine）"
+    },
+    {
+        "pidNo": "538497",
+        "english": "Let Them Eat Cake Lipstick - Cool Lilac",
+        "chinese": "Let Them Eat Cake 唇膏（色号：Cool Lilac）"
+    },
+    {
+        "pidNo": "538491",
+        "english": "Velvet Rope Lipstick - Star System",
+        "chinese": "丝绒唇膏（色号：Star System）"
+    },
+    {
+        "pidNo": "920848",
+        "english": "Lip of Luxury Duo - You Kid & Entourage ",
+        "chinese": "奢华唇膏套装（色号：You Kid & Entourage）"
+    },
+    {
+        "pidNo": "600391",
+        "english": "Velvet Rope Lipstick - Entourage",
+        "chinese": "丝绒唇膏（色号：Entourage）"
+    },
+    {
+        "pidNo": "623973",
+        "english": "Cupid's Bow Lip Pencil - Eros",
+        "chinese": "“爱神之箭”精描唇线笔（色号：Eros）"
+    },
+    {
+        "pidNo": "883255",
+        "english": "Famous Last Words - Sayonara",
+        "chinese": "离言别语唇彩 （色号：Sayonara）"
+    },
+    {
+        "pidNo": "729008",
+        "english": "Lipstick - Eden",
+        "chinese": "唇膏（色号：Eden）"
+    },
+    {
+        "pidNo": "600396",
+        "english": "Bête Noire Lipstick - Possessed Metal",
+        "chinese": "黑樱桃唇膏（色号： Possessed Metal）"
+    },
+    {
+        "pidNo": "883257",
+        "english": "Famous Last Words - Rosebud",
+        "chinese": "离言别语唇彩（色号：Rosebud）"
+    },
+    {
+        "pidNo": "883263",
+        "english": "Chess Lipstick - Bishop (Determined)",
+        "chinese": "魅力迷局唇膏，色号：Bishop (Determined)"
+    },
+    {
+        "pidNo": "883256",
+        "english": "Famous Last Words - So Long",
+        "chinese": "离言别语唇彩 （色号：So Long）"
+    },
+    {
+        "pidNo": "623980",
+        "english": "Sinner Lipstick - Hot Rose",
+        "chinese": "诱惑之罪唇膏（色号：Hot Rose）"
+    },
+    {
+        "pidNo": "842221",
+        "english": "Lipstick - Black Lace Rabbit",
+        "chinese": "唇膏（色号：Black Lace Rabbit）"
+    },
+    {
+        "pidNo": "883260",
+        "english": "Chess Lipstick - King (Noble)",
+        "chinese": "魅力迷局唇膏，色号：King （Noble） "
+    },
+    {
+        "pidNo": "883261",
+        "english": "Chess Lipstick - Queen (Supreme)",
+        "chinese": "魅力迷局唇膏，色号：Queen （Supreme）"
+    },
+    {
+        "pidNo": "623979",
+        "english": "Saint Lipstick - Scarlet Red",
+        "chinese": "圣品唇膏（色号：Scarlet Red）"
+    },
+    {
+        "pidNo": "883264",
+        "english": "Chess Lipstick - Knight (Courageous)",
+        "chinese": "魅力迷局唇膏，色号：Knight（Courageous） "
+    },
+    {
+        "pidNo": "883265",
+        "english": "Chess Lipstick - Pawn (Loyal) ",
+        "chinese": "魅力迷局唇膏，色号：Pawn（Loyal）"
+    },
+    {
+        "pidNo": "623982",
+        "english": "Sinner Lipstick - Deep Red",
+        "chinese": "诱惑之罪唇膏（色号：Deep Red）"
+    },
+    {
+        "pidNo": "710376",
+        "english": "Saint & Sinner Lip Tint - Deep Red",
+        "chinese": "圣洁诱惑唇釉（色号：Deep Red）"
+    },
+    {
+        "pidNo": "710377",
+        "english": "Saint & Sinner Lip Tint - Wine",
+        "chinese": "圣洁诱惑唇釉（色号：Wine）"
+    },
+    {
+        "pidNo": "883259",
+        "english": "Famous Last Words - See Ya",
+        "chinese": "离言别语唇彩（色号：See Ya）"
+    },
+    {
+        "pidNo": "883262",
+        "english": "Chess Lipstick - Rook (Unpredictable)",
+        "chinese": "魅力迷局唇膏，色号：Rook（Unpredictable）"
+    },
+    {
+        "pidNo": "623978",
+        "english": "Saint Lipstick - Bright Rose",
+        "chinese": "圣品唇膏（色号： Bright Rose）"
+    },
+    {
+        "pidNo": "759670",
+        "english": "Lip Liner - Bare Nude ",
+        "chinese": "唇线笔（色号：Bare Nude）"
+    },
+    {
+        "pidNo": "842222",
+        "english": "Sinner Lipstick - Mauve",
+        "chinese": "诱惑之罪唇膏（色号：Mauve）"
+    },
+    {
+        "pidNo": "600395",
+        "english": "Bête Noire Lipstick - Possessed Sheer",
+        "chinese": "黑色魅惑唇膏（色号：Possessed Sheer）"
+    },
+    {
+        "pidNo": "883258",
+        "english": "Famous Last Words - Dear John",
+        "chinese": "离言别语唇彩（色号：Dear John）"
+    },
+    {
+        "pidNo": "623977",
+        "english": "Saint Lipstick - Pink",
+        "chinese": "圣品唇膏（色号：Pink）"
+    },
+    {
+        "pidNo": "766077",
+        "english": "Cream Blush - Frog Prince",
+        "chinese": "幻色腮红霜（色号：Frog Prince）"
+    },
+    {
+        "pidNo": "759665",
+        "english": "Sinner Lipstick - Nude",
+        "chinese": "诱惑之罪唇膏（色号：Nude）"
+    },
+    {
+        "pidNo": "623974",
+        "english": "Cupid's Bow Lip Pencil - Nymph",
+        "chinese": "爱神之箭唇妆笔（色号：Nymph）"
+    },
+    {
+        "pidNo": "759669",
+        "english": "Saint Lipstick - Rust",
+        "chinese": "圣品唇膏（色号：Rust）"
+    },
+    {
+        "pidNo": "759666",
+        "english": "Sinner Lipstick - Wine",
+        "chinese": "诱惑之罪唇膏（色号：Wine）"
+    },
+    {
+        "pidNo": "759671",
+        "english": "Lip Liner - Red",
+        "chinese": "唇线笔（色号：Red）"
+    },
+    {
+        "pidNo": "623975",
+        "english": "Lipstick - Frog Prince",
+        "chinese": "唇膏（色号：Frog Prince）"
+    },
+    {
+        "pidNo": "710375",
+        "english": "Saint & Sinner Lip Tint - Rose",
+        "chinese": "圣洁诱惑唇釉（色号：Rose）"
+    },
+    {
+        "pidNo": "759672",
+        "english": "Lip Liner - Wine",
+        "chinese": "唇线笔（色号：Wine）"
+    },
+    {
+        "pidNo": "677858",
+        "english": "All That Jazz Lipstick - Paint The Town",
+        "chinese": "浓情爵士唇膏（色号：Paint The Town）"
+    },
+    {
+        "pidNo": "677857",
+        "english": "All That Jazz Lipstick - Hot Piano",
+        "chinese": "浓情爵士唇膏（色号：Hot Piano）"
+    },
+    {
+        "pidNo": "697740",
+        "english": "Velvet Rope Lipstick - Private Party",
+        "chinese": "丝绒唇膏（色号：Private Party） "
+    },
+    {
+        "pidNo": "538494",
+        "english": "Invisible Lip Liner",
+        "chinese": "隐形唇线笔"
+    },
+    {
+        "pidNo": "759668",
+        "english": "Saint Lipstick - Rouge",
+        "chinese": "圣品唇膏（色号：Rouge）"
+    },
+    {
+        "pidNo": "697739",
+        "english": "Silver Screen Lipstick - Come Up",
+        "chinese": "银幕美人唇膏（色号：Come Up）"
+    },
+    {
+        "pidNo": "759664",
+        "english": "Sinner Lipstick - Coral",
+        "chinese": "诱惑之罪唇膏（色号：Coral）"
+    },
+    {
+        "pidNo": "600394",
+        "english": "Bête Noire Lipstick - Possessed Intense",
+        "chinese": "黑魅之惑唇膏（色号：Possessed Intense）"
+    },
+    {
+        "pidNo": "677856",
+        "english": "All That Jazz Lipstick - Cool Gin",
+        "chinese": "浓情爵士唇膏（色号：Cool Gin）"
+    },
+    {
+        "pidNo": "697735",
+        "english": "Sinner Lipstick - Pinky Nude",
+        "chinese": "诱惑之罪唇膏（色号：Pinky Nude）"
+    },
+    {
+        "pidNo": "677859",
+        "english": "All That Jazz Lipstick - Whoopee Spot",
+        "chinese": "浓情爵士唇膏（色号：Whoopee Spot）"
+    },
+    {
+        "pidNo": "623981",
+        "english": "Sinner Lipstick - Red ",
+        "chinese": "诱惑之罪唇膏（色号：Red）"
+    },
+    {
+        "pidNo": "766078",
+        "english": "Lipgloss - Frog Prince",
+        "chinese": "唇彩（色号：Frog Prince）"
+    },
+    {
+        "pidNo": "623976",
+        "english": "Lipgloss - Hello Sailor",
+        "chinese": "唇彩（色号：Hello Sailor）"
+    },
+    {
+        "pidNo": "697737",
+        "english": "Sinner Lipstick - Peachy Nude",
+        "chinese": "诱惑之罪唇膏（色号：Peachy Nude）"
+    },
+    {
+        "pidNo": "759667",
+        "english": "Saint Lipstick - Bright Natural",
+        "chinese": "圣品唇膏（色号：Bright Natural）"
+    },
+    {
+        "pidNo": "538496",
+        "english": "Medieval Lipstick - Sheer Red",
+        "chinese": "中世纪唇膏（色号：Sheer Red）"
+    },
+    {
+        "pidNo": "662709",
+        "english": "Belle Époque Tinted Lip Balm - Belle Wine, 8g",
+        "chinese": "Belle Époque 饰色润唇膏，8g（色号：Belle Wine）"
+    },
+    {
+        "pidNo": "623972",
+        "english": "Cupid's Bow Lip Pencil - Golden Arrow",
+        "chinese": "爱神之箭唇妆笔（色号：Golden Arrow）"
+    },
+    {
+        "pidNo": "710374",
+        "english": "Saint & Sinner Lip Tint - Pinky Nude",
+        "chinese": "圣洁诱惑唇釉（色号：Pinky Nude）"
+    },
+    {
+        "pidNo": "600397",
+        "english": "Silver Screen Lipstick - See Me",
+        "chinese": "银幕美人唇膏（色号：See Me）"
+    },
+    {
+        "pidNo": "538495",
+        "english": "Lipstick - Hello Sailor",
+        "chinese": "唇膏（色号：Hello Sailor）"
+    },
+    {
+        "pidNo": "600392",
+        "english": "Lip Treatment - Queen Bee",
+        "chinese": "护唇膏（色号：Queen Bee）"
+    },
+    {
+        "pidNo": "697742",
+        "english": "The Lip Parade Set",
+        "chinese": "幻彩巡游唇膏套装"
+    },
+    {
+        "pidNo": "662708",
+        "english": "Belle Époque Tinted Lip Balm - Belle Nude, 8g",
+        "chinese": "美丽时光饰色唇膏，8g（色号：Belle Nude）"
+    },
+    {
+        "pidNo": "600393",
+        "english": "Lipstick - Ice Queen",
+        "chinese": "唇膏（色号：Ice Queen）"
+    },
+    {
+        "pidNo": "600398",
+        "english": "Silver Screen Lipstick - Stella",
+        "chinese": "银幕美人唇膏（色号：Stella）"
+    },
+    {
+        "pidNo": "662707",
+        "english": "Belle Époque Tinted Lip Balm - Belle Pink, 8g",
+        "chinese": "Belle Époque 饰色润唇膏，8g（色号：Belle Pink）"
+    },
+    {
+        "pidNo": "697734",
+        "english": "Lipstick - Jean Queen",
+        "chinese": "唇膏（色号：Jean Queen）"
+    },
+    {
+        "pidNo": "697738",
+        "english": "Silver Screen Lipstick - You Kid",
+        "chinese": "银幕美人唇膏（色号：You Kid）"
+    },
+    {
+        "pidNo": "600399",
+        "english": "Velvet Rope Lipstick - Black Tie",
+        "chinese": "丝绒唇膏（色号：Black Tie）"
+    },
+    {
+        "pidNo": "538498",
+        "english": "Lipstick - Jungle Queen",
+        "chinese": "唇膏（色号：Jungle Queen）"
+    },
+    {
+        "pidNo": "697736",
+        "english": "Sinner Lipstick - Bare Nude",
+        "chinese": "诱惑之罪唇膏（色号：Bare Nude）"
+    }
+]

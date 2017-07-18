@@ -1,0 +1,772 @@
+[
+    {
+        "pidNo": "901161",
+        "english": "Eye Basic Brush",
+        "chinese": "多用途眼影扫"
+    },
+    {
+        "pidNo": "941257",
+        "english": "Lip Sleek - Grenadine",
+        "chinese": "细管唇膏笔（色号：Grenadine）"
+    },
+    {
+        "pidNo": "901160",
+        "english": "Eye Liner Brush",
+        "chinese": "眼线刷"
+    },
+    {
+        "pidNo": "941260",
+        "english": "Lip Sleek - Tango",
+        "chinese": "细管唇膏笔（色号：Tango）"
+    },
+    {
+        "pidNo": "941259",
+        "english": "Lip Sleek - Orchid",
+        "chinese": "细管唇膏笔（色号：Orchid）"
+    },
+    {
+        "pidNo": "941264",
+        "english": "Poudre Lumière - Sunlight",
+        "chinese": "高光修容粉（色号：Sunlight）"
+    },
+    {
+        "pidNo": "941261",
+        "english": "Lip Sleek - Flamingo",
+        "chinese": "细管唇膏笔（色号：Flamingo）"
+    },
+    {
+        "pidNo": "941263",
+        "english": "Radiance Gel Bronzer, 20ml",
+        "chinese": "熠采生辉古铜啫喱，20ml"
+    },
+    {
+        "pidNo": "941258",
+        "english": "Lip Sleek - Calypso",
+        "chinese": "细管唇膏笔（色号：Calypso）"
+    },
+    {
+        "pidNo": "941256",
+        "english": "Seashell Eye and Cheek Trio",
+        "chinese": "贝壳眼颊三色彩妆盘"
+    },
+    {
+        "pidNo": "901155",
+        "english": "Matte Chic Liquid Lipstick - Marisa",
+        "chinese": "花妍哑光液态唇膏（色号：Marisa）"
+    },
+    {
+        "pidNo": "901159",
+        "english": "Lip Chic - Petunia",
+        "chinese": "花妍香颂唇膏（色号：Petunia）"
+    },
+    {
+        "pidNo": "901156",
+        "english": "Matte Chic Liquid Lipstick - Jerry",
+        "chinese": "花妍哑光液态唇膏（色号：Jerry）"
+    },
+    {
+        "pidNo": "901158",
+        "english": "Lip Chic - Tuberose",
+        "chinese": "花妍香颂唇膏（色号：Tuberose）"
+    },
+    {
+        "pidNo": "901153",
+        "english": "Mermaid Eye Matte Set",
+        "chinese": "哑光版美人鱼眼影霜套装"
+    },
+    {
+        "pidNo": "901157",
+        "english": "Lip Chic - Lily",
+        "chinese": "花妍香颂唇膏（色号：Lily）"
+    },
+    {
+        "pidNo": "901154",
+        "english": "Brightening Eye Kajal - Nude",
+        "chinese": "明眸眼线笔（色号：Nude）"
+    },
+    {
+        "pidNo": "901163",
+        "english": "Rose de Mai Body Oil, 50ml",
+        "chinese": "五月玫瑰花妍身体精华油，50ml"
+    },
+    {
+        "pidNo": "338317",
+        "english": "Lip Chic - Violetta",
+        "chinese": "花妍香颂唇膏（色号：Violetta）"
+    },
+    {
+        "pidNo": "799613",
+        "english": "Lip Definer - Nuance",
+        "chinese": "唇线笔（色号：Nuance）"
+    },
+    {
+        "pidNo": "682516",
+        "english": "Lip Definer - Daring",
+        "chinese": "花妍长效唇线笔（色号：Daring）"
+    },
+    {
+        "pidNo": "803045",
+        "english": "Matte Chic Liquid Lipstick - Carmen",
+        "chinese": "花妍哑光液态唇膏（色号：Carmen）"
+    },
+    {
+        "pidNo": "616215",
+        "english": "Lip Chic - Moroccan Rose ",
+        "chinese": "花妍香颂唇膏（色号：Moroccan Rose）"
+    },
+    {
+        "pidNo": "682511",
+        "english": "Lipstick - Nirvana",
+        "chinese": "花妍润泽唇膏（色号：Nirvana）"
+    },
+    {
+        "pidNo": "799620",
+        "english": "Luster Glide Eyeliner - Amethyst",
+        "chinese": "丝滑光感眼线笔（色号：Amethyst）"
+    },
+    {
+        "pidNo": "682515",
+        "english": "Lip Definer - Vibrant",
+        "chinese": "花妍长效唇线笔（色号：Vibrant）"
+    },
+    {
+        "pidNo": "803047",
+        "english": "Mermaid Eye Color - Copper",
+        "chinese": "美人鱼眼影霜（色号：Copper）"
+    },
+    {
+        "pidNo": "616212",
+        "english": "Le Chrome Luxe Eye Duo – Gardens of Marrakech",
+        "chinese": "闪烁奢华双色眼影（色号：Gardens of Marrakech）"
+    },
+    {
+        "pidNo": "799626",
+        "english": "Blanc Gardenia Brightening Emulsion, 50ml",
+        "chinese": "栀子花亮白乳液，50ml"
+    },
+    {
+        "pidNo": "682512",
+        "english": "Lipstick - Larkspur",
+        "chinese": "花妍润泽唇膏（色号：Larkspur）"
+    },
+    {
+        "pidNo": "735789",
+        "english": "Lip Chic – Wild Poppy",
+        "chinese": "花妍唇泽（色号： Wild Poppy）"
+    },
+    {
+        "pidNo": "542242",
+        "english": "Brilliant Gloss - Lucky",
+        "chinese": "花妍晶莹唇彩（色号：Lucky）"
+    },
+    {
+        "pidNo": "682508",
+        "english": "Le Chrome Luxe Eye Duo - Tibet",
+        "chinese": "闪烁奢华双色眼影（色号：Tibet）"
+    },
+    {
+        "pidNo": "682510",
+        "english": "Lipstick - Hollyhock",
+        "chinese": "花妍润泽唇膏（色号：Hollyhock）"
+    },
+    {
+        "pidNo": "523229",
+        "english": "Luminous Gloss - Guava",
+        "chinese": "花妍釉彩唇蜜（色号：Guava）"
+    },
+    {
+        "pidNo": "803046",
+        "english": "Mermaid Eye Color - Hematite",
+        "chinese": "美人鱼眼影霜（色号：Hematite）"
+    },
+    {
+        "pidNo": "762150",
+        "english": "Lip Chic - Cosmos",
+        "chinese": "花妍香颂唇膏（色号：Cosmos）"
+    },
+    {
+        "pidNo": "799615",
+        "english": "Lipstick - African Violet",
+        "chinese": "花妍润泽唇膏（色号：African Violet）"
+    },
+    {
+        "pidNo": "803043",
+        "english": "Matte Chic Liquid Lipstick - Suzy",
+        "chinese": "花妍哑光液态唇膏（色号：Suzy）"
+    },
+    {
+        "pidNo": "803044",
+        "english": "Matte Chic Liquid Lipstick - Dovima",
+        "chinese": "花妍哑光液态唇膏（色号：Dovima）"
+    },
+    {
+        "pidNo": "803042",
+        "english": "Matte Chic Liquid Lipstick - Dorian",
+        "chinese": "花妍哑光液态唇膏（色号：Dorian）"
+    },
+    {
+        "pidNo": "799612",
+        "english": "Lipstick - Mirage",
+        "chinese": "花妍润泽唇膏（色号：Mirage）"
+    },
+    {
+        "pidNo": "444916",
+        "english": "Brilliant Gloss - Pretty",
+        "chinese": "花妍晶莹唇彩（色号：Pretty）"
+    },
+    {
+        "pidNo": "735788",
+        "english": "Lip Chic - Red Juniper",
+        "chinese": "花妍唇泽（色号：Red Juniper）"
+    },
+    {
+        "pidNo": "799622",
+        "english": "Foundation and Mask Brush",
+        "chinese": "粉底面膜刷"
+    },
+    {
+        "pidNo": "549148",
+        "english": "Le Chrome Luxe Eye Duo - Grand Canal",
+        "chinese": "闪烁奢华双色眼影（色号：Grand Canal）"
+    },
+    {
+        "pidNo": "597325",
+        "english": "Hydra Chic Lipstick - Saxifrage",
+        "chinese": "花妍水凝唇膏（色号：Saxifrage）"
+    },
+    {
+        "pidNo": "616214",
+        "english": "Lip Chic - Mandarin",
+        "chinese": "花妍香颂唇膏（色号：Mandarin）"
+    },
+    {
+        "pidNo": "799616",
+        "english": "Lip Definer - Desire",
+        "chinese": "花妍长效唇线笔（色号：Desire）"
+    },
+    {
+        "pidNo": "799617",
+        "english": "Lipstick - Sunset",
+        "chinese": "花妍润泽唇膏（色号：Sunset）"
+    },
+    {
+        "pidNo": "682514",
+        "english": "Luster Glide Eyeliner - Slate",
+        "chinese": "丝滑光感眼线笔（色号：Slate）"
+    },
+    {
+        "pidNo": "762152",
+        "english": "Mermaid Eye Color - Seashell",
+        "chinese": "美人鱼眼影霜（色号：Seashell）"
+    },
+    {
+        "pidNo": "762153",
+        "english": "Mermaid Eye Color - Starfish",
+        "chinese": "美人鱼眼影霜（色号：Starfish）"
+    },
+    {
+        "pidNo": "799623",
+        "english": "Blanc Gardenia Brightening Essence, 30ml",
+        "chinese": "栀子花亮肤精华，30ml"
+    },
+    {
+        "pidNo": "799619",
+        "english": "Lip Definer - Coral",
+        "chinese": "花妍长效唇线笔（色号：Coral）"
+    },
+    {
+        "pidNo": "338318",
+        "english": "Faux Cils Longest Lash Mascara - Black",
+        "chinese": "极限真长胜肽睫毛膏（色号：Black） "
+    },
+    {
+        "pidNo": "762151",
+        "english": "Mermaid Eye Color - Triton",
+        "chinese": "美人鱼眼影霜（色号：Triton）"
+    },
+    {
+        "pidNo": "830745",
+        "english": "Gold Energizing Eye Recovery Mask x 8",
+        "chinese": "极致纯金赋活眼膜（8 片装）"
+    },
+    {
+        "pidNo": "667929",
+        "english": "Lip Chic - Patience",
+        "chinese": "花妍香颂唇膏（色号：Patience）"
+    },
+    {
+        "pidNo": "762154",
+        "english": "Mermaid Eye Color - Lagoon",
+        "chinese": "美人鱼眼影霜（色号：Lagoon）"
+    },
+    {
+        "pidNo": "735787",
+        "english": "Lip Chic - Gaia",
+        "chinese": "花妍唇泽（色号：Gaia）"
+    },
+    {
+        "pidNo": "616216",
+        "english": "24 Hour Waterproof Eye Liner - Orchid",
+        "chinese": "防水抗晕眼线笔（色号：Orchid）"
+    },
+    {
+        "pidNo": "762149",
+        "english": "Lip Chic - Gypsy Rose",
+        "chinese": "花妍香颂唇膏（色号：Gypsy Rose）"
+    },
+    {
+        "pidNo": "549147",
+        "english": "Le Chrome Luxe Eye Duo - Piazza San Marco",
+        "chinese": "闪烁奢华双色眼影（色号：Piazza San Marco）"
+    },
+    {
+        "pidNo": "672297",
+        "english": "Faux Cils Mascara",
+        "chinese": "纤长绒密睫毛膏"
+    },
+    {
+        "pidNo": "832707",
+        "english": "Nano Gold Energizing Eye Serum, 15ml",
+        "chinese": "极致纯金赋活眼部精华液，15ml"
+    },
+    {
+        "pidNo": "685421",
+        "english": "Eau de Parfum - Frangipane, 75ml",
+        "chinese": "Frangipane 奶油甜心香水，75ml"
+    },
+    {
+        "pidNo": "481368",
+        "english": "Compact Soleil Bronzer - Tahiti",
+        "chinese": "阳光颊彩饼（色号：Tahiti）"
+    },
+    {
+        "pidNo": "542243",
+        "english": "Lip Chic - Calla Lily",
+        "chinese": "花妍香颂唇膏（色号：Calla Lily）"
+    },
+    {
+        "pidNo": "481366",
+        "english": "Lipstick - Agave ",
+        "chinese": "花妍润泽唇膏（色号：Agave）"
+    },
+    {
+        "pidNo": "685423",
+        "english": "Eau de Parfum - Vetyver, 75ml",
+        "chinese": "Vetyver 淘气香根香水，75ml\n"
+    },
+    {
+        "pidNo": "481365",
+        "english": "Lipstick - Magnolia",
+        "chinese": "花妍润泽唇膏（色号：Magnolia）"
+    },
+    {
+        "pidNo": "344346",
+        "english": "HD Perfecting Powder - Universal",
+        "chinese": "高画质修片蜜粉饼（色号：Universal）"
+    },
+    {
+        "pidNo": "481360",
+        "english": "Liquid Lumière Anti-Aging Illuminator - Luster, 23ml",
+        "chinese": "抗衰老亮彩乳，23ml（色号：Luster）"
+    },
+    {
+        "pidNo": "667927",
+        "english": "Protect the Wolves Eye Shade Trio",
+        "chinese": "保护野狼三色眼影"
+    },
+    {
+        "pidNo": "597327",
+        "english": "Rose de Mai Face Oil, 30ml",
+        "chinese": "五月玫瑰花妍脸部护理油, 30ml"
+    },
+    {
+        "pidNo": "682513",
+        "english": "Luster Glide Eyeliner - Raven",
+        "chinese": "丝滑光感眼线笔（色号：Raven）"
+    },
+    {
+        "pidNo": "338310",
+        "english": "Brilliant Gloss - Charm",
+        "chinese": "花妍晶莹唇彩 （色号：Charm）"
+    },
+    {
+        "pidNo": "344348",
+        "english": "Brilliant Gloss - Folly",
+        "chinese": "花妍晶莹唇彩（色号：Folly）"
+    },
+    {
+        "pidNo": "616213",
+        "english": "HD Perfecting Powder - Bronze",
+        "chinese": "高画质修片蜜粉饼（色号：Bronze）"
+    },
+    {
+        "pidNo": "481359",
+        "english": "Luminous Gloss - Mango",
+        "chinese": "花妍釉彩唇蜜（色号：Mango）"
+    },
+    {
+        "pidNo": "481361",
+        "english": "Liquid Lumière Anti-Aging Illuminator - Brilliance, 23ml",
+        "chinese": "抗衰老亮彩乳，23ml（色号：Brilliance）"
+    },
+    {
+        "pidNo": "667931",
+        "english": "Galactic Lip Shine - Moonlight, 3ml",
+        "chinese": "花妍晶莹唇彩，3ml（色号：Moonlight）"
+    },
+    {
+        "pidNo": "542236",
+        "english": "Full Brow Perfecting Gel - Clear",
+        "chinese": "丰盈塑眉胶（色号：Clear）"
+    },
+    {
+        "pidNo": "718256",
+        "english": "Eau de Parfum - Tiare, 75ml ",
+        "chinese": "Tiare 海洋之心香水，75ml"
+    },
+    {
+        "pidNo": "523231",
+        "english": "Lipstick - Lotus",
+        "chinese": "花妍润泽唇膏（色号：Lotus）"
+    },
+    {
+        "pidNo": "454983",
+        "english": "Future Skin Oil Free Gel Foundation - Hazel, 30g",
+        "chinese": "未来肌肤无油啫喱粉底，30g（色号：Hazel）"
+    },
+    {
+        "pidNo": "481369",
+        "english": "Compact Soleil Bronzer - St. Barth's",
+        "chinese": "阳光颊彩饼（色号：St. Barth's）"
+    },
+    {
+        "pidNo": "718258",
+        "english": "Eau de Parfum - Vetyver, 75ml ",
+        "chinese": "Vetyver 淘气香根香水，75ml\n"
+    },
+    {
+        "pidNo": "454979",
+        "english": "Future Skin Oil Free Gel Foundation - Sand, 30g",
+        "chinese": "未来肌肤无油啫喱粉底，30g（色号：Sand）"
+    },
+    {
+        "pidNo": "523228",
+        "english": "Luminous Gloss – Mulberry",
+        "chinese": "花妍釉彩唇蜜（色号：Mulberry）"
+    },
+    {
+        "pidNo": "685424",
+        "english": "Eau de Parfum - Kalimantan, 75ml",
+        "chinese": "Kalimantan 云端小岛香水，75ml"
+    },
+    {
+        "pidNo": "435319",
+        "english": "Just Skin Tinted Moisturizer SPF15 - Glow, 50ml",
+        "chinese": "自然肌肤轻底妆 SPF15，50ml（色号：Glow）"
+    },
+    {
+        "pidNo": "735785",
+        "english": "Le Magnolia Eye & Cheek Palette",
+        "chinese": "木兰眼颊彩妆盘"
+    },
+    {
+        "pidNo": "516925",
+        "english": "Vital Essence, 50ml",
+        "chinese": "花妍活肤精华液，50ml"
+    },
+    {
+        "pidNo": "523238",
+        "english": "Le Camouflage Stylo - 8, 1.8ml",
+        "chinese": "活颜亮采遮瑕笔，1.8ml（色号：8） "
+    },
+    {
+        "pidNo": "523227",
+        "english": "Le Stylo Ultra Slim Liquid Eyeliner – Brown",
+        "chinese": "时尚防水眼线液（色号：Brown）"
+    },
+    {
+        "pidNo": "616218",
+        "english": "Retinol Intense+ In Botanical Microspheres, 50ml",
+        "chinese": "强效花妍焕采植物微滴青春露，50ml"
+    },
+    {
+        "pidNo": "549149",
+        "english": "Liquid Lumière Anti-Aging Illuminator - Sheen, 23ml",
+        "chinese": "青春光采亮肌液，23ml（色号：Sheen）"
+    },
+    {
+        "pidNo": "667930",
+        "english": "Luster Glide Eyeliner - Black Forest",
+        "chinese": "丝滑光感眼线笔（色号：Black Forest）"
+    },
+    {
+        "pidNo": "454980",
+        "english": "Future Skin Oil Free Gel Foundation - Wheat, 30g",
+        "chinese": "未来肌肤无油啫喱粉底，30g（色号：Wheat）"
+    },
+    {
+        "pidNo": "338308",
+        "english": "Just Skin Tinted Moisturizer SPF15 - Tan, 50ml",
+        "chinese": "自然肌肤轻底妆 SPF15，50ml （色号：Tan）"
+    },
+    {
+        "pidNo": "338311",
+        "english": "Brilliant Gloss - Mirth",
+        "chinese": "花妍晶莹唇彩（色号：Mirth）"
+    },
+    {
+        "pidNo": "338328",
+        "english": "Rice & Geranium Foaming Cleanser, 70g",
+        "chinese": "花妍泡沫洁面乳，72ml"
+    },
+    {
+        "pidNo": "718257",
+        "english": "Eau de Parfum - Kalimantan, 75ml ",
+        "chinese": "Kalimantan 云端小岛香水，75ml"
+    },
+    {
+        "pidNo": "576072",
+        "english": "Future Skin Oil Free Gel Foundation - Porcelain, 30g",
+        "chinese": "未来肌肤无油啫喱粉底，30g（色号：Porcelain）"
+    },
+    {
+        "pidNo": "454978",
+        "english": "Future Skin Oil Free Gel Foundation - Ivory, 30g",
+        "chinese": "未来肌肤无油啫喱粉底，30g（色号：Ivory）"
+    },
+    {
+        "pidNo": "344345",
+        "english": "Kabuki Brush",
+        "chinese": "HD 粉饼腮红二用刷"
+    },
+    {
+        "pidNo": "481371",
+        "english": "Hibiscus and Bamboo Exfoliating Cream, 75ml",
+        "chinese": "花妍焕肤磨砂霜，75ml"
+    },
+    {
+        "pidNo": "616217",
+        "english": "24 Hour Waterproof Eye Liner - Oolong",
+        "chinese": "防水抗晕眼线笔（色号：Oolong）"
+    },
+    {
+        "pidNo": "355984",
+        "english": "Gel Liner Pencil - Geode",
+        "chinese": "眼线胶笔（色号：Geode）"
+    },
+    {
+        "pidNo": "444914",
+        "english": "Lip Chic - Primrose",
+        "chinese": "花妍香颂唇膏（色号：Primrose）"
+    },
+    {
+        "pidNo": "355985",
+        "english": "Luminous Gloss - Framboise",
+        "chinese": "花妍釉彩唇蜜（色号：Framboise）"
+    },
+    {
+        "pidNo": "523232",
+        "english": "Le Camouflage Stylo - 1, 1.8ml",
+        "chinese": "活颜亮采遮瑕笔，1.8ml（色号：1）"
+    },
+    {
+        "pidNo": "542241",
+        "english": "Luster Glide Eye Liner - Violet Damask",
+        "chinese": "丝滑光感眼线笔（色号：Violet Damask）"
+    },
+    {
+        "pidNo": "481364",
+        "english": "Lipstick - Poppy",
+        "chinese": "花妍润泽唇膏（色号：Poppy）"
+    },
+    {
+        "pidNo": "338298",
+        "english": "Future Skin Oil Free Gel Foundation - Alabaster, 30g",
+        "chinese": "未来肌肤粉底，30g （色号：Alabaster）"
+    },
+    {
+        "pidNo": "523235",
+        "english": "Le Camouflage Stylo - 4W, 1.8ml",
+        "chinese": "活颜亮采遮瑕笔，1.8ml（色号：4W）"
+    },
+    {
+        "pidNo": "481367",
+        "english": "Compact Soleil Bronzer - Capri",
+        "chinese": "阳光颊彩饼（色号：Capri）"
+    },
+    {
+        "pidNo": "516926",
+        "english": "Brilliant Gloss - Love",
+        "chinese": "花妍晶莹唇彩（色号：Love）"
+    },
+    {
+        "pidNo": "338303",
+        "english": "Future Skin Oil Free Gel Foundation - Shea, 30g",
+        "chinese": "未来肌肤粉底，30g （色号：Shea）"
+    },
+    {
+        "pidNo": "478310",
+        "english": "Future Skin Oil Free Gel Foundation - Carob, 30g",
+        "chinese": "未来肌肤粉底，30g（色号：Carob）"
+    },
+    {
+        "pidNo": "523234",
+        "english": "Le Camouflage Stylo - 3, 1.8ml",
+        "chinese": "活颜亮采遮瑕笔，1.8ml（色号：3）"
+    },
+    {
+        "pidNo": "523236",
+        "english": "Le Camouflage Stylo - 4C, 1.8 ml",
+        "chinese": "活颜亮采遮瑕笔，1.8ml（色号：4C）"
+    },
+    {
+        "pidNo": "542237",
+        "english": "Brow Definer - Ash Blonde",
+        "chinese": "持久匀色眉笔（色号：Ash Blonde）"
+    },
+    {
+        "pidNo": "542240",
+        "english": "Luster Glide Eyeliner - Olive Brocade",
+        "chinese": "丝滑光感眼线笔（色号：Olive Brocade）"
+    },
+    {
+        "pidNo": "344347",
+        "english": "Rose Eye Makeup Remover, 74ml",
+        "chinese": "五月玫瑰眼唇卸妆液，74ml"
+    },
+    {
+        "pidNo": "338324",
+        "english": "Nano Gold Energizing Face Cream, 50ml",
+        "chinese": "极致纯金赋活乳霜，50ml"
+    },
+    {
+        "pidNo": "355983",
+        "english": "Magnolia, Jasmine and Lily Healing Emulsion, 50ml",
+        "chinese": "花妍抗敏保湿乳，50ml"
+    },
+    {
+        "pidNo": "355988",
+        "english": "Lip Chic - Rose Délice",
+        "chinese": "花妍香颂唇膏 （色号：Rose Délice）"
+    },
+    {
+        "pidNo": "435317",
+        "english": "Just Skin Tinted Moisturizer SPF15 - Vanilla, 50ml",
+        "chinese": "自然肌肤轻底妆 SPF15，50ml （色号：Vanilla）"
+    },
+    {
+        "pidNo": "444915",
+        "english": "Lip Chic - Wild Rose",
+        "chinese": "花妍香颂唇膏（色号：Wild Rose）"
+    },
+    {
+        "pidNo": "338302",
+        "english": "Future Skin Oil Free Gel Foundation - Nude, 30g",
+        "chinese": "未来肌肤粉底，30g （色号：Nude ）"
+    },
+    {
+        "pidNo": "338299",
+        "english": "Future Skin Oil Free Gel Foundation - Camomile, 30g",
+        "chinese": "未来肌肤粉底，29.5ml （色号：Camomile）"
+    },
+    {
+        "pidNo": "597323",
+        "english": "Galatic Lip Shine - Polaris",
+        "chinese": "璀璨银河晶莹唇蜜 （色号：Polaris）"
+    },
+    {
+        "pidNo": "718255",
+        "english": "Eau de Parfum - Frangipane, 75ml",
+        "chinese": "Frangipane 奶油甜心香水，75ml"
+    },
+    {
+        "pidNo": "682509",
+        "english": "Cheek Gelée - Happy, 23ml",
+        "chinese": "水润亮彩胭脂膏（色号：Happy），23ml"
+    },
+    {
+        "pidNo": "667932",
+        "english": "Bio Lifting Cream +, 50ml",
+        "chinese": "钻石级乳霜，50ml"
+    },
+    {
+        "pidNo": "597326",
+        "english": "Hydra Chic Lipstick - Arctic Rose",
+        "chinese": "花妍水凝唇膏（色号：Arctic Rose）"
+    },
+    {
+        "pidNo": "523233",
+        "english": "Le Camouflage Stylo - 2, 1.8ml",
+        "chinese": "活颜亮采遮瑕笔，1.8ml（色号：2）"
+    },
+    {
+        "pidNo": "523237",
+        "english": "Le Camouflage Stylo - 5, 1.8 ml",
+        "chinese": "活颜亮采遮瑕笔，1.8ml（色号：5）"
+    },
+    {
+        "pidNo": "542238",
+        "english": "Brow Definer - Oak Brown",
+        "chinese": "持久匀色眉笔（色号：Oak Brown）"
+    },
+    {
+        "pidNo": "481370",
+        "english": "Jasmine and Lily Healing Mask, 50ml",
+        "chinese": "花妍保湿修护面膜，50ml"
+    },
+    {
+        "pidNo": "478253",
+        "english": "Rose de Mai Cream, 50ml",
+        "chinese": "五月玫瑰花妍乳霜，50ml"
+    },
+    {
+        "pidNo": "454982",
+        "english": "Future Skin Oil Free Gel Foundation - Suntan, 30g",
+        "chinese": "未来肌肤无油啫喱粉底，30g（色号：Suntan）"
+    },
+    {
+        "pidNo": "435316",
+        "english": "Just Skin Tinted Moisturizer SPF15 - Alabaster, 50ml",
+        "chinese": "自然肌肤轻底妆 SPF 15，50 ml（色号：Alabaster）"
+    },
+    {
+        "pidNo": "338315",
+        "english": "Lip Chic - Sari Rose",
+        "chinese": "花妍香颂唇膏（色号：Sari Rose）"
+    },
+    {
+        "pidNo": "338300",
+        "english": "Future Skin Oil Free Gel Foundation - Vanilla, 30g",
+        "chinese": "未来肌肤粉底，29.5ml （色号：Vanilla）"
+    },
+    {
+        "pidNo": "338301",
+        "english": "Future Skin Oil Free Gel Foundation - Cream, 30g",
+        "chinese": "未来肌肤粉底，29.5ml （色号：Cream）"
+    },
+    {
+        "pidNo": "338309",
+        "english": "Just Skin Tinted Moisturizer SPF15 - Wheat, 50ml",
+        "chinese": "自然肌肤轻底妆 SPF15，50ml （色号：Wheat）"
+    },
+    {
+        "pidNo": "338313",
+        "english": "Pure Rosewater, 100ml",
+        "chinese": "五月玫瑰花妍露，100ml"
+    },
+    {
+        "pidNo": "338321",
+        "english": "Ultra Sun Protection SPF45 Primer, 40ml",
+        "chinese": "防晒修护隔离霜 SPF45，40ml"
+    },
+    {
+        "pidNo": "338323",
+        "english": "Bio Lifting Serum, 30ml",
+        "chinese": "钻石级精华液，30ml"
+    },
+    {
+        "pidNo": "355987",
+        "english": "Lip Chic - Daphne",
+        "chinese": "花妍香颂唇膏 （色号：Daphne）"
+    }
+]
